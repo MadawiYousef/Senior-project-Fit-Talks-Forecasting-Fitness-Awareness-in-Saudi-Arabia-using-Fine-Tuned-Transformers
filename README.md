@@ -9,4 +9,4 @@ The repository also includes code for fine-tuning two transformer models, BERT a
 * Interface Code: Code for a user-friendly interface for sentiment analysis.
 
 ## Applications
-The dataset and models provide insights into public health sentiment in Saudi Arabia, offering actionable information for health campaigns and initiatives
+The dataset and models provide insights into public health sentiment in Saudi Arabia, offering actionable information for health campaigns and initiatives.
